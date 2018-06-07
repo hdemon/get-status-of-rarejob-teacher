@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hdemon/get-status-of-rarejob-teacher/issues"
   },
-  "homepage": "https://github.com/hdemon/get-status-of-rarejob-teacher#readme"
+  "homepage": "https://github.com/hdemon/get-status-of-rarejob-teacher#readme",
+  "dependencies": {
+    "html-table-to-json": "^0.2.1",
+    "puppeteer": "^1.4.0"
+  }
 }
